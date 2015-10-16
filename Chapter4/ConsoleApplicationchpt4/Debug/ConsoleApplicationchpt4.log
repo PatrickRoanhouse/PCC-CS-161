@@ -1,0 +1,19 @@
+﻿Build started 10/13/15 9:33:00 AM.
+     1>Project "Z:\PCC-CS-161\Chapter4\ConsoleApplicationchpt4\ConsoleApplicationchpt4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\ConsoleApplicationchpt4.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\ConsoleApplicationchpt4.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplicationchpt4.cpp
+         ConsoleApplicationchpt4.cpp
+     1>z:\pcc-cs-161\chapter4\consoleapplicationchpt4\consoleapplicationchpt4.cpp(10): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+         z:\pcc-cs-161\chapter4\consoleapplicationchpt4\consoleapplicationchpt4.cpp(10): note: Add directive to 'stdafx.h' or rebuild precompiled header
+     1>z:\pcc-cs-161\chapter4\consoleapplicationchpt4\consoleapplicationchpt4.cpp(11): warning C4627: '#include <string>': skipped when looking for precompiled header use
+         z:\pcc-cs-161\chapter4\consoleapplicationchpt4\consoleapplicationchpt4.cpp(11): note: Add directive to 'stdafx.h' or rebuild precompiled header
+     1>z:\pcc-cs-161\chapter4\consoleapplicationchpt4\consoleapplicationchpt4.cpp(12): warning C4627: '#include <iomanip>': skipped when looking for precompiled header use
+         z:\pcc-cs-161\chapter4\consoleapplicationchpt4\consoleapplicationchpt4.cpp(12): note: Add directive to 'stdafx.h' or rebuild precompiled header
+     1>z:\pcc-cs-161\chapter4\consoleapplicationchpt4\consoleapplicationchpt4.cpp(43): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+     1>Done Building Project "Z:\PCC-CS-161\Chapter4\ConsoleApplicationchpt4\ConsoleApplicationchpt4.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.85
