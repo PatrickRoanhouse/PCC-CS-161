@@ -1,0 +1,24 @@
+1. first included the following headers
+
+#include <iostream>
+#include <string>
+#include <iomanip>
+
+
+
+2. first set the following varibles:
+
+double price = 0;
+double total = 0;
+string item = "";
+char menuOption = 'M';
+bool quit = 0;
+
+3. Output first welcome
+
+4. Create while loop that stops bool quit = 1
+
+5. put in a switch that uses menuOption to choose from 4 defined cases and one deafault case for errors
+
+case 'A', case 'T', case 'Q', case 'M', and default
+

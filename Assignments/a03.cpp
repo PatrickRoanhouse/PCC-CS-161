@@ -173,7 +173,7 @@ int main()
 			{
 				if(vehicleLength < 14)
 				{
-					totalFare = carLengthOneNorm + carHeightOneSurcharge + (adults * adultFare) + (senior * seniorFare) + (youth * youthFare) + (bikes * bikeFare);
+					totalFare = carLengthOneNorm + (adults * adultFare) + (senior * seniorFare) + (youth * youthFare) + (bikes * bikeFare);
 				}
 				else if((vehicleLength > 14) && (vehicleLength < 22))
 				{

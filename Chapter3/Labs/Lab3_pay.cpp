@@ -49,7 +49,7 @@ int main()
 	// Lets user know what is going on
 	cout << "\nThis program reads data from a text file Ch3_Ex6Data.txt\n";
 	cout << "It contains three employee's first names, last names, salaries, and % of pay increase\n";
-	cout << "It calculates what the new increase salary\nthen stores the information & output in another file named Ch3_Ex6Output.dat.\n\n";
+	cout << "It calculates what the new increase salary then stores the information & output in another file named Ch3_Ex6Output.dat.\n\n";
 
 	// first employee
 	cout << "Reading data from old file…\n\n";
